@@ -8,7 +8,7 @@
  * Future implementation will see a configuration to adapt to multiple CPU systems.
  * Adapted from a very awesome no rights reserved Bash script at http://colby.id.au/node/39
  * 
- * Visit the Salocin.TEN Virtual Place at www.salocinten.net!
+ * Visit the Salocin.TEN Virtual Place at www.salocinten.info!
  * */
 
 // Set the session variables. These are essential. You can also adopt them to store into a file.
